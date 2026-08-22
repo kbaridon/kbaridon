@@ -1,32 +1,22 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=600&size=28&duration=4000&color=4A86E8&center=true&vCenter=true&random=true&lines=%24+whoami+%E2%86%92+Kilfen;Hey%2C+I'm+Kilfen%F0%9F%91%8B;~%2Fkilfen+%F0%9F%91%8B;Bonjour+%F0%9F%87%AB%F0%9F%87%B7%F0%9F%A5%96" alt="Typing SVG" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4A86E8&center=true&vCenter=true&random=true&width=435&lines=%24+whoami+%E2%86%92+Kilfen;Hey%2C+I'm+Kilfen%F0%9F%91%8B;~%2Fkilfen+%F0%9F%91%8B;Bonjour+%F0%9F%87%AB%F0%9F%87%B7%F0%9F%A5%96)](https://git.io/typing-svg)
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=kbaridon&color=4A86E8FF&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=kbaridon&color=4a86e8)
   ![Status](https://img.shields.io/badge/Status-En_Apprentissage-7C3AED?style=for-the-badge)
   
 </div>
 
 ---
 
-## 🚀 À propos de moi
+## About me
 
-💻 **Dev passionné** | 🐟 42Paris | 🎯 En apprentissage permanent | 📍 France
+💻 **Data Scientist** | 📊 Liora (ex. Datascientest) | 🐟 42Paris | 📍 France (willing to move)
 
 ```javascript
-const diego2crocs = {
-    name: "Diego",
-    role: "Dev jusqu'à la mort",
-    skills: {
-        JavaScript: "ok-",
-        HTML: "ok",
-        CSS: "ok",
-        C: "ok--",
-        Python: "en apprentissage",
-        ApexLegends: "Monstre"
-    },
+const kbaridon = {
+    name: "Kilfen",
+    role: "Data Scientist",
     currentlyLearning: ["JavaScript", "Node.js", "C"],
     interests: ["Code", "Open Source", "Automatisation", "Jeux vidéo"],
     tools: ["VS Code", "Git", "Figma"],
@@ -35,39 +25,13 @@ const diego2crocs = {
 };
 ```
 
----
-
-## 🎮 Gaming & Stuff
-
-<div align="center">
-
-![Apex Legends](https://img.shields.io/badge/Apex_Legends-FF4655?style=for-the-badge&logo=apexlegends&logoColor=white)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Diego2Crocs/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/485074022263160844)
-
-</div>
-
----
-
 ## 📈 Graph d'activité
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diego2crocs&theme=high-contrast&hide_border=true&bg_color=1a0b2e&color=B794F4&line=B794F4&point=FFFFFF&area=true&area_color=7C3AED)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kbaridon&theme=high-contrast&hide_border=true&bg_color=1a0b2e&color=B794F4&line=B794F4&point=FFFFFF&area=true&area_color=7C3AED)
   
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/diego2crocs/diego2crocs/output/github-contribution-grid-snake-purple.svg)
-  
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -94,9 +58,9 @@ const diego2crocs = {
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego2crocs)
-  [![Email](https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
-  [![42](https://img.shields.io/badge/42Paris-000000?style=for-the-badge&logo=42&logoColor=white)](https://code.42.tech/fr/users/fbf44dfa-ed88-47b6-bf76-f356f8ee97b3/7d8b9579-ea54-4a33-b2e6-420dc4d3d7d2/about)
+  [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kbaridon)
+  [![Email](https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kilfenbaridon@gmail.com)
+  [![42](https://img.shields.io/badge/42Paris-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile-v3.intra.42.fr/users/kbaridon)
   
 </div>
 
