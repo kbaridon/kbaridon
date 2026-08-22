@@ -63,17 +63,3 @@ const kbaridon = {
   [![42](https://img.shields.io/badge/42Paris-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile-v3.intra.42.fr/users/kbaridon)
   
 </div>
-
----
-
-<div align="center">
-  
-  ### 💡 Citation du jour
-  
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=default)
-  
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer"/>
-</div>
